@@ -22,7 +22,7 @@
  * @link       https://gauravtiwari.org
  * @since      1.0.0
  *
- * @package    Dynamic_Month_Year_Into_Posts
+ * @package    Simple_Cookie_Notice
  */
 
 // If uninstall not called from WordPress, then exit.
