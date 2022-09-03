@@ -13,7 +13,7 @@
  * @package           Simple_Cookie_Notice
  *
  * @wordpress-plugin
- * Plugin Name:       Dynamic Month & Year into Posts
+ * Plugin Name:       Simple Cookie Notice
  * Plugin URI:        https://gauravtiwari.org/snippet/simple-cookie-notice/
  * Description:       Insert Simple Cookie Notice
  * Version:           1.2.0
